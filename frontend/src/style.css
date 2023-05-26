@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+body{
+    background-color: #A5B9BA;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.DataTable{
+    position: relative;
+    left: 50%;
+}
+
+.table{
+    width:80%;
+    left: 15%;
+    position: relative;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.chart{
+    width:100%;
+    position: relative;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+
+.chart-types{
+    font-family: 'PT Sans', sans-serif;
+}
+
+.chart-dropdown{
+    margin: 20px;
+    display: flex;
+}
+
+.Pie-chart{
+    font-family: 'PT Sans', sans-serif;
+    position: relative;
+    left: 45%;
+    font-size: 40px;
+}
+
+.chart-types-dynamic{
+    font-family: 'PT Sans', sans-serif;
+    position: relative;
+    left: 45%;
+    font-size: 40px;
+}
+
+.chart-container{
+    width:100%;
+    position: relative;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
